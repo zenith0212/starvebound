@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "ESNext + Strictest",
+  "compilerOptions": {
+    // Latest
+    "lib": ["ESNext"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+
+    // But support older stuff
+    "target": "ES6",
+    "esModuleInterop": true,
+
+    // Strictest
+    "strict": true,
+    "allowUnusedLabels": false,
+    "allowUnreachableCode": false,
+    "exactOptionalPropertyTypes": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "checkJs": true,
+    "skipLibCheck": true,
+
+    // Source Maps and .d.ts Files
+    "declaration": true,
+    "sourceMap": true,
+    "composite": true,
+    "incremental": true,
+
+    "noEmit": true,
+    "rootDir": ".",
+    "outDir": "out"
+  },
+  "files": [],
+  "typeRoots": ["out"]
+}

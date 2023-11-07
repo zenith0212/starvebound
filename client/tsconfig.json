@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM"],
+    "noImplicitAny": false,
+    "allowUnreachableCode": true,
+    "strict": false,
+    "strictNullChecks": true
+  },
+  "include": ["**/*.js", "**/*.ts", "../shared/**/*.ts"],
+  "references": [{ "path": "../shared" }]
+}

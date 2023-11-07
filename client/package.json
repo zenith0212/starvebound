@@ -1,0 +1,10 @@
+{
+  "main": "client.js",
+  "type": "module",
+  "dependencies": {
+    "@types/js-cookie": "^3.0.4",
+    "firebase": "^10.5.2",
+    "howler": "^2.2.4",
+    "js-cookie": "^3.0.5"
+  }
+}

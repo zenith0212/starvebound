@@ -1,0 +1,1748 @@
+[
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "FIRE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BIG_FIRE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "FURNACE",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["WOOD", 20],
+      ["STONE", 10]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WORKBENCH",
+
+    "time": 6
+  },
+  {
+    "recipe": [["WOOD", 10]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PICK_WOOD",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PICK_WOOD", 1],
+      ["WOOD", 50],
+      ["STONE", 15]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PICK",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["WOOD", 40],
+      ["GOLD", 20],
+      ["STONE", 30],
+      ["PICK", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PICK_GOLD",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["DIAMOND", 20],
+      ["GOLD", 50],
+      ["STONE", 80],
+      ["PICK_GOLD", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PICK_DIAMOND",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["DIAMOND", 40],
+      ["GOLD", 60],
+      ["AMETHYST", 30],
+      ["PICK_DIAMOND", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PICK_AMETHYST",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["AMETHYST", 30],
+      ["DIAMOND", 40],
+      ["REIDITE", 30],
+      ["PICK_AMETHYST", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PICK_REIDITE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "HAMMER",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 1,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "HAMMER_GOLD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "HAMMER_DIAMOND",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "HAMMER_AMETHYST",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "HAMMER_REIDITE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SUPER_HAMMER",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SHOVEL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 0]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SHOVEL_GOLD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SHOVEL_DIAMOND",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SHOVEL_AMETHYST",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WATERING_CAN",
+
+    "time": 0
+  },
+  {
+    "recipe": [["WATERING_CAN", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 1,
+    "well": 0,
+    "item": "WATERING_CAN_FULL",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+    ["CRAB_SPEAR", 3],
+    ["EMERALD", 500]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PITCHFORK",
+    "bonus": 300000,
+    "time": 0
+  },
+  {
+    "recipe": [
+    ["LAVA_SWORD", 10],
+    ["EMERALD", 500]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PITCHFORK2",
+    "bonus": 300000,
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 1,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BOOK",
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WOOD_SPEAR",
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 0]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SPEAR",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "GOLD_SPEAR",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_SPEAR",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_SPEAR",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_SPEAR",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DRAGON_SPEAR",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["DRAGON_SPEAR", 5]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "LAVA_SPEAR",
+    "bonus": 260000,
+    "time": 0
+  },
+  {
+    "recipe": [["LAVA_SPEAR", 5]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "CRAB_SPEAR",
+    "bonus": 30000,
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SWORD_WOOD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SWORD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SWORD_GOLD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SWORD_DIAMOND",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SWORD_AMETHYST",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]
+    ],
+    "workbench": 1,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_SWORD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PLANT", 3]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "SEED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["WILD_WHEAT", 3]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "WHEAT_SEED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PUMPKIN", 8]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "PUMPKIN_SEED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["GARLIC", 8]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "GARLIC_SEED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["THORNBUSH", 8]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "THORNBUSH_SEED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["CARROT", 8]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "CARROT_SEED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["TOMATO", 8]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "TOMATO_SEED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["WATERMELON", 16]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "WATERMELON_SEED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["ALOE_VERA", 16]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "ALOE_VERA_SEED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["MEAT", 1]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "COOKED_MEAT",
+
+    "time": 0
+  },
+  {
+    "recipe": [["FOODFISH", 1]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "FOODFISH_COOKED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["FLOUR", 3]],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "BREAD",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["FLOUR", 3],
+      ["PLANT", 1]
+    ],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "COOKIE",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["FLOUR", 5],
+      ["PLANT", 2],
+      ["ICE", 2]
+    ],
+    "workbench": 0,
+    "fire": 1,
+    "water": 0,
+    "well": 0,
+    "item": "CAKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BANDAGE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WALL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "STONE_WALL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "GOLD_WALL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_WALL",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_WALL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_WALL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WOOD_DOOR",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "STONE_DOOR",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "GOLD_DOOR",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_DOOR",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_DOOR",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_DOOR",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SPIKE",
+
+    "time": 20
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "STONE_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "GOLD_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WOOD_DOOR_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "STONE_DOOR_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "GOLD_DOOR_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_DOOR_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_DOOR_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_DOOR_SPIKE",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["WOOD", 25],
+      ["GOLD", 2]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "CHEST",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "EXPLORER_HAT",
+
+    "time": 0
+  },
+  {
+    "recipe": [["CROWN_CRAB", 5]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PIRATE_HAT",
+    "bonus": 30000,
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PILOT_HELMET",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "EARMUFFS",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "COAT",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "CAP_SCARF",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "FUR_HAT",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WOOD_HELMET",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "STONE_HELMET",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "GOLD_HELMET",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_HELMET",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_HELMET",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_HELMET",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIVING_MASK",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SUPER_DIVING_SUIT",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_PROTECTION",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PIRATE_HAT", 2],
+      ["EMERALD", 500]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_PROTECTION",
+    "bonus": 300000,
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_PROTECTION",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "TURBAN1",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "TURBAN2",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BAG",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PAPER",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 1,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BLUE_CORD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["GOLD", 10]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "LOCK",
+
+    "time": 0
+  },
+  {
+    "recipe": [["WOOD", 600]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "LOCKPICK",
+    "bonus": 1000,
+
+    "time": 3
+  },
+  {
+    "recipe": [["WOOD", 50]],
+    "workbench": 1,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "TOTEM",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BRIDGE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["WOOD", 30]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "ROOF",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WOOD_TOWER",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PLOT",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BOTTLE_EMPTY",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BOTTLE_FULL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BOTTLE_FULL_2",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BOTTLE_FULL_3",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WINDMILL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "RESURRECTION",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["SANDWORM_JUICE", 1],
+      ["EMERALD", 40]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "EMERALD_MACHINE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "EXTRACTOR_MACHINE_STONE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "EXTRACTOR_MACHINE_GOLD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "EXTRACTOR_MACHINE_DIAMOND",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "EXTRACTOR_MACHINE_AMETHYST",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "EXTRACTOR_MACHINE_REIDITE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["STONE", 70]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SPANNER",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "MACHETE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BREAD_OVEN",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SANDWICH",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DRAGON_HELMET",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["DRAGON_HELMET", 5]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "LAVA_HELMET",
+    "bonus": 30000,
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["LAVA_HELMET", 5]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "CROWN_CRAB",
+    "bonus": 30000,
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DRAGON_SWORD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["DRAGON_SWORD", 5]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "LAVA_SWORD",
+    "bonus": 26000,
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WOOD_BOW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WOOD_ARROW",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "STONE_BOW",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "STONE_ARROW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "GOLD_BOW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "GOLD_ARROW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_BOW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_ARROW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_BOW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_ARROW",
+
+    "time": 0
+  },
+  {
+    "recipe": [
+      ["PAPER", 1]
+    ],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_BOW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_ARROW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DRAGON_BOW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DRAGON_ARROW",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WOOD_SHIELD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "STONE_SHIELD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "GOLD_SHIELD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "DIAMOND_SHIELD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "AMETHYST_SHIELD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "REIDITE_SHIELD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "CROWN_GREEN",
+
+    "time": 0,
+    "bonus": 2500
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "CROWN_ORANGE",
+
+    "time": 0,
+    "bonus": 2500
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "CROWN_BLUE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "HOOD",
+
+    "time": 0,
+    "bonus": 1000
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PEASANT",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WINTER_HOOD",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WINTER_PEASANT",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BUCKET_FULL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BUCKET_EMPTY",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "WELL",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SIGN",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "BOAT",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SLED",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "SADDLE",
+
+    "time": 0
+  },
+  {
+    "recipe": [["PAPER", 1]],
+    "workbench": 0,
+    "fire": 0,
+    "water": 0,
+    "well": 0,
+    "item": "PLANE",
+
+    "time": 0
+  }
+]

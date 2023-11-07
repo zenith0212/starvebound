@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    // tsc will be used
+    "noEmit": false,
+
+    // JSON Imports
+    "resolveJsonModule": true,
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext",
+
+    // Temporarily lax, because this code was inherited from less experienced developers
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "allowUnreachableCode": true
+  },
+  "include": ["**/*.ts", "../shared/**/*.ts", "**/*.json"],
+  "exclude": ["tsconfig.json"],
+  "references": [{ "path": "../shared" }]
+}
